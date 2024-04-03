@@ -1,0 +1,44 @@
+* {
+  background-color: pink;
+}
+
+.head {
+  color: darkblue;
+}
+#red {
+  color: red;
+  background-color:lime;
+}
+#bglime {
+  background-color: lime;
+}
+p {
+  color: white;
+}
+#para {
+  color: green;
+}
+.black {
+  color: black;
+  font-size: 25px;
+}
+li{
+  color:white;
+}
+li:nth-child(1) a {
+  background-color: yellow;
+  color:black;
+}
+li:nth-child(2) a {
+  background-color: blue;
+  color:black;
+}
+ol li{
+  color: black;
+}
+ol li:nth-child(2){
+  color:blue;
+}
+ol li:nth-child(3){
+  color:red;
+}
